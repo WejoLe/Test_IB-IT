@@ -198,14 +198,5 @@
         {"text": "Язык программирования", "is_correct": false}, 
         {"text": "Тип базы данных", "is_correct": false}
         ]
-    },
-
-    {
-    "text": "Что такое ?",
-    "answers": [
-        {"text": "О", "is_correct": false}, 
-        {"text": "dО", "is_correct": true}, 
-        {"text": "x", "is_correct": false} 
-        ]
     }
 ]
